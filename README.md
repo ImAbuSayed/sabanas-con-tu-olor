@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus sábanas me llaman, guardan tu olor
+> Aún siento tu calor en la habitación
+> Tú eres mi locura, mi única adicción
+> Esta noche te busco, no hay otra opción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
