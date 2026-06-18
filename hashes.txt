@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas con tu olor
+
+This log tracks the cryptographic history and versioning for the song **Sábanas con tu olor** (sabanas-con-tu-olor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:37:10.239493 | `v1` | `e1fc6edf2d11fe68e51586b15434a53d2c25d7ab0b8b209167c4d765d34a0fe4` | `e22f85826e543c2b18573f13d96ccabbd7de5292e7ddc589f26e78f0ec788241` | `2026-06-18_sabanas-con-tu-olor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
